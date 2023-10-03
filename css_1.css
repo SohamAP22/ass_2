@@ -1,7 +1,4 @@
-@font-face {
-    font-family: Phudu;
-    src: url(https://fonts.googleapis.com/css2?family=Phudu&display=swap);
-}
+
 
 #head{
     color:burlywood;
@@ -37,7 +34,7 @@ body{
 } */
 
 header{
-    font-family: Phudu;
+    font-family: 'Pacifico', cursive;
 }
 header::first-letter{
     
